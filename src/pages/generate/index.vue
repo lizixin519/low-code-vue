@@ -10,7 +10,7 @@
       <a-layout-sider class="template-container" width="300px">
         <template-list></template-list>
       </a-layout-sider>
-      <a-layout-content class="main-container">Content</a-layout-content>
+      <a-layout-content class="main-container">Content1</a-layout-content>
       <a-layout-sider class="props-container" width="300px">Sider</a-layout-sider>
     </a-layout>
   </a-layout>
