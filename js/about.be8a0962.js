@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklow_code_vue"]=self["webpackChunklow_code_vue"]||[]).push([[443],{1057:function(e,n,u){u.r(n),u.d(n,{default:function(){return d}});var c=u(6252);const r={class:"about"};function t(e,n){return(0,c.wg)(),(0,c.iD)("div",r)}var o=u(3744);const s={},a=(0,o.Z)(s,[["render",t]]);var d=a}}]);
+//# sourceMappingURL=about.be8a0962.js.map
